@@ -81,7 +81,6 @@ for (let i = 0; i < s.length; i++) {
     console.log(num1, num2)
     pointSum += num1 *num2
     creditSum += num2
-    
 }
 console.log(pointSum,creditSum)
 console.log(pointSum/creditSum)
